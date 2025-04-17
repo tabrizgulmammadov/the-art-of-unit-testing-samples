@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0fc1149e_002D0308_002D46f7_002D8712_002D6cd6b6e4c38f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Not&gt;
+    &lt;Project Location="/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples" Presentation="&amp;lt;Chapter4-Mock&amp;gt;" /&gt;
+  &lt;/Not&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=0ee62638_002D5c17_002D408a_002D9969_002D566333085aba_0023LogAn/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=30ebf876_002D73a1_002D480d_002Daff1_002Db709bab61ce9_0023LogAn_002EUnitTests/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=8807afbd_002Dada1_002D4ea8_002D866c_002D0264087efafc_0023SimpleParser_002EUnitTests/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=cafc3f66_002Dff9b_002D41f4_002Db6bc_002D0e2eefdfc294_0023SimpleParser/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=e88a26ab_002D5db8_002D4176_002Db86a_002D231dce2f1ef3_0023LogAn_002EUnitTests/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=f04e3761_002D26c3_002D4854_002D9e12_002D8cc2120fa8ef_0023LogAn/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

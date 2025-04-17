@@ -1,0 +1,11 @@
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/bin/Debug/net8.0/SimpleParser.deps.json
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/bin/Debug/net8.0/SimpleParser.dll
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/bin/Debug/net8.0/SimpleParser.pdb
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/obj/Debug/net8.0/SimpleParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/obj/Debug/net8.0/SimpleParser.AssemblyInfoInputs.cache
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/obj/Debug/net8.0/SimpleParser.AssemblyInfo.cs
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/obj/Debug/net8.0/SimpleParser.csproj.CoreCompileInputs.cache
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/obj/Debug/net8.0/SimpleParser.dll
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/obj/Debug/net8.0/refint/SimpleParser.dll
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/obj/Debug/net8.0/SimpleParser.pdb
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/SimpleParser/obj/Debug/net8.0/ref/SimpleParser.dll

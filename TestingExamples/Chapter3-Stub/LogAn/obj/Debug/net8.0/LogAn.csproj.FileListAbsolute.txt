@@ -1,0 +1,11 @@
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/bin/Debug/net8.0/LogAn.deps.json
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/bin/Debug/net8.0/LogAn.dll
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/bin/Debug/net8.0/LogAn.pdb
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/obj/Debug/net8.0/LogAn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/obj/Debug/net8.0/LogAn.AssemblyInfoInputs.cache
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/obj/Debug/net8.0/LogAn.AssemblyInfo.cs
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/obj/Debug/net8.0/LogAn.csproj.CoreCompileInputs.cache
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/obj/Debug/net8.0/LogAn.dll
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/obj/Debug/net8.0/refint/LogAn.dll
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/obj/Debug/net8.0/LogAn.pdb
+/Users/tabrizgulmammadov/Desktop/WorkingArea/Books/C#/The art of unit testing/TestingExamples/Chapter3-Stub/LogAn/obj/Debug/net8.0/ref/LogAn.dll
